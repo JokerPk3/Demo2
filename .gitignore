@@ -1,2 +1,2 @@
 saling_keypair.pem
-node_module/
+*node_modules/*
